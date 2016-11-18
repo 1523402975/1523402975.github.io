@@ -1,0 +1,2 @@
+# zzbuddha.github.io
+blog
